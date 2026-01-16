@@ -1,0 +1,1 @@
+{ "name": "Oh My Zsh", "id": "ohmyzsh", "description": "Example tool", "platforms": ["linux"], "actions": ["install", "export", "import"] }
